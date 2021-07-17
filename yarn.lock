@@ -957,10 +957,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@nop-app/vue-nop@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@nop-app/vue-nop/-/vue-nop-2.0.0.tgz#6e0f5152971b0e204008cdbb11feb52e3fed2210"
-  integrity sha512-wFFDiuUDk1SRoi8poSD1FuzaH7/B8ylXftgyRBvsP9Rf9xEUOLinvpmKVnEi/KnhqWuV3bvjE9tygdQwm8Z9GQ==
+"@nop-app/vue-nop@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@nop-app/vue-nop/-/vue-nop-2.1.2.tgz#fc2b36dd1b9e4a1fe9385345e9f8f2c72f43658b"
+  integrity sha512-lNRpUnFtok2Ig5h+0uss0XexYwntqrI42zWQu7RjlbGZymwZ06PkkUPdQCPrN7csuoKDyXlWLEgtJLKerfJBbQ==
 
 "@soda/friendly-errors-webpack-plugin@^1.7.1":
   version "1.8.0"

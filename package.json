@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@nop-app/vue-nop": "^2.0.0",
+    "@nop-app/vue-nop": "^2.1.2",
     "buefy": "^0.9.7",
     "core-js": "^3.6.5",
     "faker": "^5.5.3",
