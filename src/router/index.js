@@ -8,17 +8,17 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    name: 'Home',
+    name: 'home',
     component: Home
   },
   {
     path: '/posts/:id',
-    name: 'Edit post',
+    name: 'edit-post',
     component: () => import(/* webpackChunkName: "editPost" */ '../views/EditPost.vue')
   },
   {
     path: '/about',
-    name: 'About',
+    name: 'about',
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
 ]
